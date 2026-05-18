@@ -1,0 +1,6 @@
+{
+  "name": "Neon Maze: Quest for the Pellets",
+  "description": "An arcade-inspired Ms. Pac-Man style game with multi-level mazes, distinct ghost AI, and high-score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
